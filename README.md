@@ -19,7 +19,7 @@ This project is an academic database design and web development exercise for **T
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Translate_Right.git
+   git clone https://github.com/gandanimal/Translate_Right.git
    ```
 2. Set up a local server (e.g., XAMPP, WAMP) and configure the database.
 3. Import the provided SQL schema into MySQL.
